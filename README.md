@@ -1,10 +1,10 @@
 # hello_world_app
 
-A new Flutter project.
+Nuevo ptoyecto flutter para testiar.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Solo es un proyecto demo
 
 A few resources to get you started if this is your first Flutter project:
 
